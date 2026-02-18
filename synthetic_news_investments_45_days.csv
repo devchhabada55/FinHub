@@ -1,0 +1,61 @@
+Date,Asset_Class,Headline,Sentiment_Label,Sentiment_Score,Keyword_Tags
+2026-01-01,Gold,Geopolitical tensions push gold prices higher,Negative,-0.577,Gold
+2026-01-01,PPF,PPF inflows increase as equities get volatile,Negative,-0.544,PPF
+2026-01-02,NASDAQ,NASDAQ eyes correction after extended rally,Positive,0.295,NASDAQ
+2026-01-03,NASDAQ,NASDAQ soars on major AI sector gains,Neutral,0.022,NASDAQ
+2026-01-04,Bonds,Corporate bond spreads tighten amid risk appetite,Negative,-0.979,"Bonds,Interest Rates"
+2026-01-04,Gold,Gold futures cool off after stronger dollar,Negative,-0.248,Gold
+2026-01-05,NASDAQ,Strong earnings boost NASDAQ sentiment,Neutral,-0.094,"NASDAQ,Earnings"
+2026-01-05,FD,Banks hike FD rates to compete for deposits,Neutral,-0.058,"FD,Interest Rates"
+2026-01-06,Bonds,Bond yields retreat as investors seek stability,Positive,0.309,"Bonds,Yields"
+2026-01-07,Gold,Gold demand weakens amid stronger equity rally,Neutral,-0.044,Gold
+2026-01-08,Silver,Safe-haven demand lifts silver alongside gold,Neutral,0.006,Silver
+2026-01-08,PPF,Policy tweak makes PPF benefits more attractive,Positive,0.258,PPF
+2026-01-09,Bonds,Bond markets mixed after inflation surprises,Positive,0.465,"Bonds,Inflation"
+2026-01-09,NASDAQ,"Capital flows shift out of tech stocks, cooling NASDAQ",Negative,-0.725,NASDAQ
+2026-01-10,Bonds,Rising yields challenge bond price gains,Positive,0.424,"Bonds,Yields"
+2026-01-10,FD,FD demand grows as sentiment turns cautious,Positive,0.26,FD
+2026-01-11,PPF,PPF inflows increase as equities get volatile,Neutral,0.013,PPF
+2026-01-12,Gold,"Central bank increases gold reserves, boosting market confidence",Negative,-0.222,Gold
+2026-01-13,FD,Popular FD schemes see record subscription,Neutral,-0.069,FD
+2026-01-13,Bonds,Flight to quality lifts government bonds,Negative,-0.589,Bonds
+2026-01-14,Bonds,Bond yields retreat as investors seek stability,Neutral,0.015,"Bonds,Yields"
+2026-01-15,Gold,Gold futures cool off after stronger dollar,Positive,0.315,Gold
+2026-01-15,Silver,"ETFs reduce silver holdings, weighing on price",Negative,-0.233,Silver
+2026-01-16,S&P 500,Broader market weakness drags the S&P 500 lower,Positive,0.666,S&P 500
+2026-01-17,Silver,Silver dips as mining output increases,Negative,-0.809,Silver
+2026-01-18,S&P 500,S&P 500 retreats as rate-sensitive sectors slide,Negative,-0.744,"S&P 500,Interest Rates"
+2026-01-19,Silver,"ETFs reduce silver holdings, weighing on price",Negative,-0.817,Silver
+2026-01-20,FD,Fixed deposits remain safe as equities turn choppy,Positive,0.608,FD
+2026-01-21,PPF,Policy tweak makes PPF benefits more attractive,Positive,0.764,PPF
+2026-01-22,PPF,PPF interest remains stable despite market shifts,Positive,0.909,PPF
+2026-01-22,Bonds,Rising yields challenge bond price gains,Negative,-0.277,"Bonds,Yields"
+2026-01-23,S&P 500,Broader market weakness drags the S&P 500 lower,Neutral,-0.048,S&P 500
+2026-01-24,Silver,Safe-haven demand lifts silver alongside gold,Negative,-0.637,Silver
+2026-01-25,Bonds,Bond markets mixed after inflation surprises,Neutral,-0.034,"Bonds,Inflation"
+2026-01-26,Silver,Silver dips as mining output increases,Positive,0.291,Silver
+2026-01-26,Bonds,Corporate bond spreads tighten amid risk appetite,Negative,-0.604,"Bonds,Interest Rates"
+2026-01-27,PPF,PPF interest remains stable despite market shifts,Negative,-0.919,PPF
+2026-01-28,S&P 500,Broader market weakness drags the S&P 500 lower,Positive,0.861,S&P 500
+2026-01-29,Gold,Gold demand weakens amid stronger equity rally,Neutral,-0.033,Gold
+2026-01-29,PPF,PPF inflows increase as equities get volatile,Positive,0.409,PPF
+2026-01-30,Silver,Silver gains support from rising industrial demand,Negative,-0.555,Silver
+2026-01-31,PPF,PPF inflows increase as equities get volatile,Neutral,0.033,PPF
+2026-02-01,S&P 500,S&P 500 volatility rises on hawkish Fed signals,Negative,-0.489,S&P 500
+2026-02-02,Gold,Gold prices surge as inflation data beats expectations,Negative,-0.407,"Gold,Inflation"
+2026-02-02,S&P 500,Broader market weakness drags the S&P 500 lower,Neutral,-0.07,S&P 500
+2026-02-03,PPF,Policy tweak makes PPF benefits more attractive,Positive,0.48,PPF
+2026-02-03,Gold,Gold prices surge as inflation data beats expectations,Negative,-0.299,"Gold,Inflation"
+2026-02-04,Gold,Gold prices surge as inflation data beats expectations,Negative,-0.254,"Gold,Inflation"
+2026-02-05,NASDAQ,"Capital flows shift out of tech stocks, cooling NASDAQ",Positive,0.273,NASDAQ
+2026-02-06,S&P 500,Consumer confidence lifts the S&P 500,Negative,-0.585,S&P 500
+2026-02-07,Bonds,Flight to quality lifts government bonds,Negative,-0.91,Bonds
+2026-02-08,S&P 500,S&P 500 hits record highs after tech earnings beat,Negative,-0.999,"S&P 500,Earnings"
+2026-02-09,FD,FD demand grows as sentiment turns cautious,Negative,-0.964,FD
+2026-02-09,S&P 500,S&P 500 hits record highs after tech earnings beat,Negative,-0.757,"S&P 500,Earnings"
+2026-02-10,NASDAQ,Tech sell-off pressures NASDAQ indexes,Negative,-0.702,NASDAQ
+2026-02-10,Gold,Gold demand weakens amid stronger equity rally,Positive,0.484,Gold
+2026-02-11,FD,Fixed deposits remain safe as equities turn choppy,Positive,0.852,FD
+2026-02-12,Gold,Geopolitical tensions push gold prices higher,Negative,-0.624,Gold
+2026-02-13,Silver,Silver dips as mining output increases,Negative,-0.209,Silver
+2026-02-14,PPF,PPF inflows increase as equities get volatile,Positive,0.748,PPF
